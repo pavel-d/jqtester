@@ -1,0 +1,16 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.almaty{
+	margin: 10;
+	-webkit-filter: brightness(100%);
+
+}
+
+.slider{
+	margin: 0;
+	margin-left: 150;	
+	width: 300px;
+}
